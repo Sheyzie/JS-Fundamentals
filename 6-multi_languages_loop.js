@@ -4,6 +4,6 @@ const multiLanguage = [
     'JavaScript is amazing'
 ]
 
-for(let i = 0; i < multiLanguage.length; i++) {
+for (let i = 0; i < multiLanguage.length; i++) {
     console.log(multiLanguage[i])
 }
