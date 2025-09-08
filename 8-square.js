@@ -7,7 +7,7 @@ if (isNaN(squareSize)) {
     console.log('Missing size')
 } else {
     let square = 'X'
-    for (let i = 0; i < squareSize; i++) {
+    for (let i = 1; i < squareSize; i++) {
         square += 'X'
     }
 
